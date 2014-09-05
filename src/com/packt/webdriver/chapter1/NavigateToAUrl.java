@@ -32,4 +32,4 @@ public class NavigateToAUrl {
 
 		driver.close();}
 		
-   }
+   }    
